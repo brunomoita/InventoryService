@@ -65,7 +65,7 @@ namespace InventoryService.Controllers
             }
         }
 
-        private async Task GetUser(string email, string password)
+        private async Task<UserInfo> GetUser(string email, string password)
         {
             return await _context.UserInfo.FirstOrDefaultAsync(u => u.Email == email && u.Password == password);
         }
