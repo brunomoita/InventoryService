@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IkLlMtMNP4454uve5gkdDMCmXkXQa/+K8fFmhsr++M4UcbuwZvpaCOdhvjTogptvCnfWHNe9XE/R7MJsQLKBKw==",
+  "dgSpecHash": "Cb87vOr8nL76bde/9kDqmMRlFkrVVDJY3x21fyYqaQpQctA9kqG0OrOIQr60TIKI58gRjqFlpJ1vmVLEJfYFTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\InventoryService\\InventoryService.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\InventoryService\\InventoryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

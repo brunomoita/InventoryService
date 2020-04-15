@@ -8840,11 +8840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\source\\repos\\InventoryService\\InventoryService.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\InventoryService\\InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "C:\\Users\\bruno\\source\\repos\\InventoryService\\InventoryService.csproj",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\InventoryService\\InventoryService.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\source\\repos\\InventoryService\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\InventoryService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -150,3 +150,10 @@ C:\Users\bruno\source\repos\InventoryService\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\bruno\source\repos\InventoryService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\bruno\source\repos\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csproj.CoreCompileInputs.cache
 C:\Users\bruno\source\repos\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.pdb
