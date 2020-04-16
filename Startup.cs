@@ -47,8 +47,6 @@ namespace InventoryService
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
                 };
             });
-
-
         }
 
 
@@ -59,6 +57,8 @@ namespace InventoryService
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseStaticFiles();
 
             app.UseHttpsRedirection();
 

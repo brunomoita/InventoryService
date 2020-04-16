@@ -151,8 +151,6 @@ C:\Users\bruno\source\repos\InventoryService\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\bruno\source\repos\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csproj.CoreCompileInputs.cache
 C:\Users\bruno\source\repos\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csprojAssemblyReference.cache
-C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csproj.CoreCompileInputs.cache
-C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.AssemblyInfoInputs.cache
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.AssemblyInfo.cs
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.dll
@@ -302,3 +300,18 @@ C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\staticwebassets\InventoryService.StaticWebAssets.Manifest.cache
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\staticwebassets\InventoryService.StaticWebAssets.xml
 C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\InventoryService.Views.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\System.Web.UI.DataBinder.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\Microsoft.Practices.Web.UI.WebControls.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\AspNetPager.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\InventoryService\obj\Debug\netcoreapp3.1\InventoryService.MvcApplicationPartsAssemblyInfo.cache
